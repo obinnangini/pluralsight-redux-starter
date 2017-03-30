@@ -32,5 +32,11 @@ dist
 #Webstorm metadata
 .idea
 
+#IntelliJ IDEA metadata
+*.iml
+
+#Visual Studio code metadata
+.vscode
+
 # Mac files
 .DS_Store
