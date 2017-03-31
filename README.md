@@ -1,4 +1,16 @@
-#Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
+# Completed project built in [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
+
+## TODO
+1. Author Administration - Disable author delete if they have a course
+1. Delete course
+1. Hide empty course list
+1. Unsaved changes message
+1. Client-side validation
+1. Handle 404's
+1. Show number of courses in Header
+1. Pagination
+1. Sort course table by title
+1. Revert abandoned changes to edited course if the user navigates from page without saving changes.
 
 ## Get Started
 1. **Install [Node 6](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)

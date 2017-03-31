@@ -5,6 +5,7 @@ import { Router, browserHistory } from 'react-router';
 import routes from './routes';
 import { loadCourses } from './actions/courseActions';
 import { loadAuthors } from './actions/authorActions';
+/* eslint-disable import/default */
 import configureStore from './store/configureStore';
 import { Provider } from 'react-redux';
 import './styles/styles.css';
